@@ -343,6 +343,10 @@ address {
   margin: 0 16px;
 }
 
+.social-icon {
+  fill: #4d5ae5;
+}
+
 .example-section {
   padding: 120px 0;
 }
