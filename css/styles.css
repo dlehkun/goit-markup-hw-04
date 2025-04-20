@@ -243,6 +243,22 @@ address {
   width: calc((100% - 72px) / 4);
 }
 
+.icon-wrap {
+  width: 264px;
+  background-color: #f4f4fd;
+  height: 112px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.logo-advantage {
+  fill: #2e2f42;
+}
+
 .advantages-list .name-advantages {
   font-size: 20px;
   font-weight: 500;
