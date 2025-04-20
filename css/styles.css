@@ -333,6 +333,14 @@ address {
   letter-spacing: 0.02em;
   line-height: 1.5;
   text-align: center;
+  margin-bottom: 8px;
+}
+
+.social-icons {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 16px;
 }
 
 .example-section {
@@ -422,4 +430,28 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width: 264px;
+}
+
+.page-bottom {
+  display: flex;
+  gap: 120px;
+}
+
+.footer-media {
+  width: 208px;
+}
+
+.bottom-title {
+  color: #ffff;
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 16px;
+  letter-spacing: 0.02em;
+}
+
+.social-icons-footer {
+  box-sizing: border-box;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
 }
