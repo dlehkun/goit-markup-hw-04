@@ -542,16 +542,16 @@ address {
   margin-bottom: 16px;
 }
 
-.social-item {
+/* .social-item {
   width: 40px;
   height: 40px;
-}
+} */
 
 .short-info {
   margin-right: 120px;
 }
 
-.footer-link {
+.social-item .footer-link {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
