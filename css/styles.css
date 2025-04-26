@@ -382,6 +382,8 @@ address {
 }
 .social-icon-brand {
   fill: #f4f4fd;
+  width: 16px;
+  height: 16px;
 }
 
 .social-link:hover,
@@ -530,6 +532,7 @@ address {
 
 .footer-media {
   width: 208px;
+  margin-right: 120px;
   /* display: flex; */
 }
 
