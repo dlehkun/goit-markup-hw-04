@@ -527,12 +527,14 @@ address {
   gap: 120px;
   align-items: baseline;
   margin-right: 120px;
+}
+
+.container-link-text {
   margin-right: 120px;
 }
 
 .footer-media {
   width: 208px;
-  margin-right: 120px;
   /* display: flex; */
 }
 
